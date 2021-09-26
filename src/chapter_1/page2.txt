@@ -3,7 +3,6 @@ This is the first page 2 of chapter 1
 
 this is our book
 
-whole name: page1.txt
-
+this is the line that I am chamnging I will commit and push it again.
 
 
